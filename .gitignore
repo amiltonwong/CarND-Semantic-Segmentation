@@ -103,3 +103,7 @@ ENV/
 RUNS/
 
 saves/
+
+data/
+
+runs/
